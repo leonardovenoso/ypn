@@ -1,0 +1,72 @@
+.container {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.logo {
+  height: 90px;
+}
+
+.main-page-mission-image {
+  background-image: url('/images/missions/ypn_volunteer_bring_me_a_book_united_states_of_america.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+  border-radius: 6px;
+}
+
+.main-page-mission-image-text {
+  position: relative;
+  top: 350px;
+  letter-spacing: -1px;
+  background: rgb(0, 0, 0);
+  background: rgba(181, 171, 171, 0.7);
+}
+
+.container-paragraph {
+  padding: 0px 80px 0px 80px;
+}
+.ig-gray {
+  -webkit-filter: grayscale(1) brightness(1.2) contrast(1.05);
+  filter: grayscale(1) brightness(1.2) contrast(1.05);
+}
+
+.footer {
+  background-color: #bb1111;
+  height: 100px;
+  margin-top: 60px;
+  text-align: center;
+  color: white;
+  padding-top: 30px;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.main_title_1 {
+  font-size: 60px;
+  text-align: center;
+  font-weight: bold;
+  color: #bb1111;
+}
+
+.overlay-text {
+   position: absolute;
+   top: 200px;
+   left: 0;
+   width: 100%;
+}
+
+.paypal {
+  margin-top: 25px;
+  text-align: right;
+}
